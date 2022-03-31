@@ -1,0 +1,122 @@
+[
+  {
+    "post_id": 1,
+    "commenter_name": "hanna",
+    "comment": "Очень здорово!",
+    "pk": 1
+  },
+  {
+    "post_id": 1,
+    "commenter_name": "jlia",
+    "comment": ":)",
+    "pk": 2
+  },
+  {
+    "post_id": 1,
+    "commenter_name": "ralf",
+    "comment": "Класс!",
+    "pk": 3
+  },
+  {
+    "post_id": 1,
+    "commenter_name": "leo",
+    "comment": "Интересно. А где это?",
+    "pk": 4
+  },
+  {
+    "post_id": 2,
+    "commenter_name": "johnny",
+    "comment": "Класс!",
+    "pk": 5
+  },
+  {
+    "post_id": 2,
+    "commenter_name": "hank",
+    "comment": "Хе хе !",
+    "pk": 6
+  },
+  {
+    "post_id": 2,
+    "commenter_name": "larry",
+    "comment": "Забавное фото!",
+    "pk": 7
+  },
+  {
+    "post_id": 2,
+    "commenter_name": "leo",
+    "comment": "Часть вижу такие фото у друзей! Это новый тренд?",
+    "pk": 8
+  },
+  {
+    "post_id": 3,
+    "commenter_name": "johnny",
+    "comment": "Выглядит неплохо )",
+    "pk": 9
+  },
+  {
+    "post_id": 3,
+    "commenter_name": "hank",
+    "comment": "Каждый раз захожу в ленту и от тебя что то классное!",
+    "pk": 10
+  },
+  {
+    "post_id": 3,
+    "commenter_name": "larry",
+    "comment": "!!!",
+    "pk": 11
+  },
+  {
+    "post_id": 3,
+    "commenter_name": "leo",
+    "comment": "Так так, продолжай)",
+    "pk": 12
+  },
+  {
+    "post_id": 4,
+    "commenter_name": "johnny",
+    "comment": "Ухты!",
+    "pk": 13
+  },
+  {
+    "post_id": 4,
+    "commenter_name": "hank",
+    "comment": "Норм )",
+    "pk": 14
+  },
+  {
+    "post_id": 4,
+    "commenter_name": "larry",
+    "comment": "Оу!",
+    "pk": 15
+  },
+  {
+    "post_id": 4,
+    "commenter_name": "leo",
+    "comment": "Интерсно...",
+    "pk": 16
+  },
+  {
+    "post_id": 5,
+    "commenter_name": "johnny",
+    "comment": "Давно тебя тут не было, с возвращением!",
+    "pk": 17
+  },
+  {
+    "post_id": 5,
+    "commenter_name": "hank",
+    "comment": "Ничего себе, вот это ты молодец!",
+    "pk": 18
+  },
+  {
+    "post_id": 6,
+    "commenter_name": "larry",
+    "comment": "Класс!",
+    "pk": 19
+  },
+  {
+    "post_id": 7,
+    "commenter_name": "hanna",
+    "comment": "Очень необычная фоторафия! Где это?",
+    "pk": 20
+  }
+]
